@@ -1,6 +1,6 @@
 # Projeto Linux Wiki Clone
 
-Este é a resolução do desafio "Recriando o Wikipedia com Layout Modernode" da DIO, basicamnte um "clone" da Wikipedia, desenvolvido como parte de um desafio em um curso com o objetivo de aprimorar as habilidades de desenvolvimento HTML.
+Este é a resolução do desafio "Recriando o Wikipedia com Layout Moderno" da DIO, basicamente um "clone" da Wikipedia, desenvolvido como parte de um desafio em um curso com o objetivo de aprimorar as habilidades de desenvolvimento HTML.
 
 ## Objetivo
 
