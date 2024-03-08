@@ -16,6 +16,10 @@ O conteúdo apresentado neste projeto é baseado em algumas informações retira
 - CSS3: Utilizado para estilizar o layout e os elementos visuais.
 - SVG: Utilizado para exibir o logo da "Linux Wiki".
 
+## Como usar
+Acesse a pagina pelo link: https://theedusantos.github.io/desafio-wikipedia-DIO/
+
+
 ## Aviso Legal
 
 O conteúdo apresentado neste projeto é derivado da Wikipedia e é utilizado apenas para fins educativos e de prática no desenvolvimento web. Este projeto não tem nenhuma afiliação com a Wikipedia ou suas entidades relacionadas. Todos os direitos autorais do conteúdo original pertencem aos seus respectivos proprietários.
