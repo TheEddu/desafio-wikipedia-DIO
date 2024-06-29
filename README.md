@@ -17,7 +17,7 @@ O conteúdo apresentado neste projeto é baseado em algumas informações retira
 - SVG: Utilizado para exibir o logo da "Linux Wiki".
 
 ## Como usar
-Acesse a pagina pelo link: https://theedusantos.github.io/desafio-wikipedia-DIO/
+Acesse a pagina pelo link: https://TheEddu.github.io/desafio-wikipedia-DIO/
 
 
 ## Aviso Legal
